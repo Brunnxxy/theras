@@ -15,19 +15,11 @@ header {
 
 
 section {  
-    background: rgb( 78,153,171,1);
-    padding: 20px; font-family: "Newsreader", serif;
-   display: flex;
-   justify-content: center;
+     background: rgb( 78,153,171,1);
+     padding: 20px;z
+    display: flex;
+    justify-content: center;
 }
 .chamada-texto{
-   margin-right: 5%;
+    margin-right: 5%;
 }
-background: rgb( 78,153,171,1);
-padding: 20px;  font-family: "Newsreader", serif;
-display: flex;
-justify-content: center;
-}
-.chamada-texto{
-margin-right: 5%;
- }
