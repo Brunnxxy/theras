@@ -10,6 +10,7 @@ header {
       padding: 15px;
       font-size: 33px;
       color: blue;
+      
 }
 
 
@@ -19,6 +20,7 @@ section {
      padding: 20px;
     display: flex;
     justify-content: center;
+
 }
 .chamada-texto{
     margin-right: 5%;
