@@ -1,16 +1,11 @@
 body {  
     background: lightblue;
     margin: 0px;
-    font-family: "Newsreader", serif; font-family: "Newsreader", serif;
 }
  
 
 header {  
       border-bottom: solid 2px blue;
-      padding: 15px;
-      font-size: 33px;
-      color: blue;
-
 }
 
 
